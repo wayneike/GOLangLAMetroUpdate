@@ -1,0 +1,1 @@
+Follow Git Flow. Only branch off of Develop.
